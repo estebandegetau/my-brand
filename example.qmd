@@ -1,5 +1,6 @@
 ---
 title: your brand extension
+brand: _extensions/esteban-degetau-brand/brand.yml
 ---
 
 # brand.yml extension
