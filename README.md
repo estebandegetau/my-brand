@@ -5,10 +5,14 @@ My personal brand extension for Quarto documents.
 
 ## Installing
 
-
-
 ```bash
 quarto add estebandegetau/my-brand
+```
+
+This grabs the [latest release](https://github.com/estebandegetau/my-brand/releases). To pin a specific version instead:
+
+```bash
+quarto add estebandegetau/my-brand@v1.0.0
 ```
 
 This will install the extension under the `_extensions` subdirectory.
